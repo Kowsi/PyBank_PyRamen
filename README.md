@@ -1,4 +1,4 @@
-# PyBank and 
+# PyBank
 
 Created a Python script for analyzing the financial records of the company. Financial dataset is in this file: [budget_data.csv](Resources/budget_data.csv). This dataset is composed of two columns, Date and Profit/Losses. (Thankfully, the company has rather lax standards for accounting, so the records are simple.)
 
